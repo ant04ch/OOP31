@@ -1,0 +1,14 @@
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OOP31.csproj.AssemblyReference.cache
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OOP31.csproj.SuggestedBindingRedirects.cache
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OOP31.Form1.resources
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OOP31.csproj.GenerateResource.cache
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OOP31.csproj.CoreCompileInputs.cache
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lox22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OOP31.csproj.CopyComplete
